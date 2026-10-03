@@ -19,7 +19,7 @@ public class Budged {
 
 
     public Budged(int currentId, String description, String category, double amount, String date){
-        this.id = id;
+        this.id = currentId;
         this.amount = amount;
         this.category = category;
         this.description = description;
@@ -27,7 +27,7 @@ public class Budged {
 
     }
 
-    //getters
+    //getters-setters
     public String getDate(){
         return date;
     }

@@ -1,6 +1,3 @@
-date|category|description|amount
-date|category|description|amount
-06.08.2026|GROCERY|coca-cola|0.0
-06.09.2026|BASIC|terea|170.0
-05.08.2026|SAVINGS|financial|0.0
-05.08.2026|SAVINGS|fin|1000.0
+1|29.09.2026|FUN|ffff|1221.0
+2|02-10-2026|BASIC|food|600.0
+3|03.10.2026|BASIC|therapy|1300.0
